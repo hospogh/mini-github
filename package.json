@@ -1,0 +1,8 @@
+{
+  "name": "mini-github",
+  "version": "1.0.0",
+  "description": "GitHub users and repos",
+  "main": "index.js",
+  "author": "Hovsep Poghosyan",
+  "license": "MIT"
+}
